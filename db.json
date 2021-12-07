@@ -8,7 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    { "id": 1, "name": "Carnegie Mellon", "email": "cmu@cmu.edu"},
+    { "id": 2, "name": "Frank Walker", "email": "frank@walker.com"},
+    { "id": 3, "name": "Sky Walker", "email": "sky@walker.com"}
+  ]
 }
